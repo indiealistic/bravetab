@@ -2,9 +2,7 @@
     "name": "Bravetab",
     "description": "Personalized override of Brave New Tab page.",
     "version": "1.0",
-    "incognito": "split",
     "chrome_url_overrides": { "newtab": "index.html" },
-    "content_security_policy": "script-src 'self' 'sha256-BFKZnhXEROfp4mhLGjL86W78rNd+uMxwEFNuvw1r3+g='; object-src 'self'",
     "manifest_version": 2,
     "icons": {
         "16": "icon.png",
